@@ -1,6 +1,6 @@
 ### Hi, I'm Ella
 
-Product manager based in Ho Chi Minh City. 5 years in tech, 2 of them focused on AI products.
+Product manager with 5 years in tech, 2 of them focused on AI products.
 
 I work at the intersection of product and AI — writing specs, running evals, and occasionally building things myself to understand them better. I care a lot about defining what "good" looks like before building, and about shipping things that actually work in the real world.
 

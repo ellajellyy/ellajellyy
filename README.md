@@ -1,8 +1,6 @@
 ### Hi, I'm Ella
 
-Product manager with 5 years in tech, 2 of them focused on AI products.
-
-I work at the intersection of product and AI — writing specs, running evals, and occasionally building things myself to understand them better. I care a lot about defining what "good" looks like before building, and about shipping things that actually work in the real world.
+Product manager focused on AI products. I work at the intersection of product and AI — writing specs, running evals, and occasionally building things myself to understand them better. I care a lot about defining what "good" looks like before building, and about shipping things that actually work in the real world.
 
 When I'm not in product mode, I run a small AI builder community in Vietnam and keep a personal AI stack that I'm always tinkering with.
 

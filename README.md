@@ -19,7 +19,7 @@ When I'm not in product mode, I run a small AI builder community in Vietnam and 
 | Product & AI | Build & Automate | Research & Eval |
 |---|---|---|
 | `Figma` `Notion` `ChatPRD` | `Claude Code` `Cursor` `Supabase` | `Braintrust` `AI Studio` `NotebookLM` |
-| `Hermes` `OpenClaw` | `Vercel` `n8n` `Make` `Playwright` | `Perplexity` `Gemini` `NotebookLM` |
+| `Hermes` `OpenClaw` | `Vercel` `n8n` `Make` `Playwright` | `Perplexity` `Gemini` `Grok` |
 
 ---
 

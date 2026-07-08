@@ -15,15 +15,6 @@ I enjoy exploring new ideas, understanding how things work, and turning messy pr
 
 ---
 
-### Tools I use
-
-| Product | Build | Research |
-|----------|----------|----------|
-| `Figma` `Notion` | `Claude Code` `Cursor` `Supabase` | `NotebookLM` `Perplexity` `Gemini` |
-| `Linear` `Google Docs` | `Vercel` `n8n` `Make` | `Braintrust` `AI Studio` |
-
----
-
 ### Find me around the internet
 
 - LinkedIn: https://www.linkedin.com/in/ellanguyen-isp/

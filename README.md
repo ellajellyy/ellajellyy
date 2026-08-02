@@ -10,12 +10,6 @@ Technology changes quickly, but I believe great products still begin with unders
 - Learning how experiments lead to better product decisions
 - Writing to clarify ideas and document what I'm learning
 
-Working on:
-
-[**Dynamic Learning**](https://dynamiclearning.ai/) — AI-powered learning experiences that transform complex topics into personalized, interactive lessons.
-
-[**Capi AI**](https://capihq.com/) — Infrastructure for organizational AI capability, turning employees' best AI work into shared knowledge that compounds over time.
-
 ## How I work
 
 I believe product management is about reducing uncertainty so teams can move faster with confidence. The faster a team learns, the faster it can make better decisions and build the right product.
